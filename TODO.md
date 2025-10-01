@@ -1,0 +1,4 @@
+- [x] Install spaCy library
+- [x] Download en_core_web_sm model
+- [x] Update nlu.py to use spaCy instead of Rasa
+- [x] Test the NLU functionality
